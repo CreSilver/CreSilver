@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Where can you find me
-- **LinkedIn:** [https://www.linkedin.com/in/david-bo%C4%8Dek-7a7b243b3/]
+- **LinkedIn:** [https://www.linkedin.com/in/david-bocek/]
