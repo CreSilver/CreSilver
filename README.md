@@ -33,3 +33,8 @@ Here are some ideas to get you started:
 - **Engine:** Godot Engine
 - **Note-taking & Planning:** Notion & Rnote
 - **Learning:** Documentation & Technical Research (w3schools)
+
+---
+
+## 📫 Where can you find me
+- **LinkedIn:** [https://www.linkedin.com/in/david-bo%C4%8Dek-7a7b243b3/]
