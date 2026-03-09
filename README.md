@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - **Editor:** Visual Studio Code
 - **Engine:** Godot Engine
 - **Note-taking & Planning:** Notion & Rnote
-- **Learning:** Documentation & Technical Research (w3schools)
+- **Learning:** Documentation & Technical Research
 
 ---
 
