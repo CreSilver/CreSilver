@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠️ Development Tools & Productivity
-- **Editor:** Visual Studio Code
-- **Engine:** Godot Engine
-- **Note-taking & Planning:** Notion & Rnote
-- **Learning:** Documentation & Technical Research
+- **Development tools:** Visual Studio Code, Godot Engine, SilverTool Prototyp
+- **Note-taking & Planning:** Notion, Rnote & draw.io
+- **Learning:** Assembly, C++, TypeScript
 
 ---
 
