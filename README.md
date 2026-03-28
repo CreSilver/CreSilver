@@ -30,9 +30,3 @@ Here are some ideas to get you started:
 - **Development tools:** Visual Studio Code, Godot Engine, SilverTool Prototyp
 - **Note-taking & Planning:** Notion, Rnote & draw.io
 - **Currently Learning:** Assembly, C++, TypeScript
-
----
-
-## 📫 Where can you find me
-- **Website:** [cresilver.github.io](https://cresilver.github.io/)
-- **LinkedIn:** [https://www.linkedin.com/in/david-bocek/]
