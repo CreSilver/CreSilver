@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ## 🛠️ Development Tools & Productivity
 - **Development tools:** Visual Studio Code, Godot Engine, IntelliJ IDEA
 - **Note-taking & Planning:** Notion, Rnote & draw.io
-- **Currently Learning:** Assembly, C++, TypeScript, Markdown
+- **Currently Learning:** C++, TypeScript
